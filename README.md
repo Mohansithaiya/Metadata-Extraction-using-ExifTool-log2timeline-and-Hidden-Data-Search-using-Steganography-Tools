@@ -57,14 +57,11 @@ binwalk -e /home/kali/Desktop/lion.jpg
 
 ## OUTPUT:
 Extracted Metadata, Timeline Events, and Hidden Data Detection Results
-```
-![EXP5_IMG1](https://github.com/user-attachments/assets/646ef4e9-c683-4296-a348-1b6cbb81e27a)
 
-```
-```
-![EXP5_IMG2](https://github.com/user-attachments/assets/0e5965b8-44fd-42b3-9cea-77d92d973fd6)
+![EXP5_IMG1](https://github.com/user-attachments/assets/62688a70-4ad0-49d0-84b2-e5f57d792f75)
 
-```
+![EXP5_IMG2](https://github.com/user-attachments/assets/6f1045a2-c560-479d-8f77-7af7b83ad1ba)
+
 ## RESULT:
 Metadata was successfully extracted, timeline analysis was completed, and hidden data was identified using steganography tools.
 
